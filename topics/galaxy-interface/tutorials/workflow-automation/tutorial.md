@@ -5,7 +5,6 @@ tags:
 - workflows
 - variant-analysis
 - covid19
-zenodo_link: ''
 questions:
 - How can I schedule and run tens or hundreds of Galaxy workflows easily?
 - How can I automate my analyses when large amounts of data are being produced daily?

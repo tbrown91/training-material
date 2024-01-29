@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Enable upload via FTP"
-zenodo_link: ""
 questions:
   - How can I setup FTP to be easy for my users?
   - Can I authenticate ftp users with Galaxy credentials?

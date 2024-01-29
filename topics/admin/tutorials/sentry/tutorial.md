@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Monitoring Galaxy and Pulsar with Sentry"
-zenodo_link: ""
 questions:
 objectives:
   - Have an understanding of Sentry

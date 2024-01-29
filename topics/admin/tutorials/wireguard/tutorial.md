@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Deploying Wireguard for private mesh networking"
-zenodo_link: ""
 questions:
   - What is wireguard?
   - When is it useful?

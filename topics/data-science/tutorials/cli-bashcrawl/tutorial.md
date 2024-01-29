@@ -3,7 +3,6 @@ layout: tutorial_hands_on
 
 title: "CLI Educational Game - Bashcrawl"
 level: Intermediate
-zenodo_link: ""
 requirements:
 - type: "internal"
   topic_name: data-science

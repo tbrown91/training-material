@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: Creating Galaxy tools from Conda Through Deployment
-zenodo_link: ''
 questions:
   - How do you create a conda package used as a dependency in a Galaxy tool wrapper?
   - How do you create a Galaxy tool wrapper and all of its requirements?

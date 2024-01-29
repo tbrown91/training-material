@@ -4,7 +4,6 @@ title:  Making clinical datasets FAIR
 abbreviations:
   FAIR: Findable, Accessible, Interoperable, Reusable
   DOI: Digital Object Identifier
-zenodo_link: ''
 questions:
 - Why make clinical data FAIR?
 - How to make clinical data FAIR?

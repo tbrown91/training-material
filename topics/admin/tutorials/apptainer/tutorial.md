@@ -4,7 +4,6 @@ redirect_from:
 - /topics/admin/tutorials/singularity/tutorial
 
 title: "Use Apptainer containers for running Galaxy jobs"
-zenodo_link: ""
 questions:
 objectives:
   - Configure your Galaxy to use Apptainer and BioContainers for running jobs

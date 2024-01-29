@@ -3,7 +3,6 @@ layout: tutorial_hands_on
 
 title: Advanced CLI in Galaxy
 level: Intermediate
-zenodo_link: ""
 requirements:
 - type: "internal"
   topic_name: data-science

@@ -3,7 +3,6 @@ layout: tutorial_hands_on
 
 title: CLI basics
 level: Introductory
-zenodo_link: ""
 requirements: []
 follow_up_training:
 - type: "internal"

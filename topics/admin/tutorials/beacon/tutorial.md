@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Deploying a Beacon v1 in Galaxy"
-zenodo_link: ""
 questions:
     - What is a Beacon?
     - How do I deploy it?

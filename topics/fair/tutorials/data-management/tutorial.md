@@ -6,7 +6,6 @@ abbreviations:
   DMP: Data Management Plan
   PID: Persistent Identifier
 
-zenodo_link: ''
 questions:
 - Is there a reproducibility crisis?
 - What can go wrong with data analysis?

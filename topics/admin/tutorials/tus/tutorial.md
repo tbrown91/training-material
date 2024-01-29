@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Performant Uploads with TUS"
-zenodo_link: ""
 questions:
 objectives:
   - Setup TUSd

@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: Sentinel 2 biodiversity
-zenodo_link: ''
 questions:
 - How to get spectral and biodiversity indicators from remote sensing data ?
 - Which kind of ecosystem are you studying ? global or canopy data ?

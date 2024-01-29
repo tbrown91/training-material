@@ -3,7 +3,6 @@ layout: tutorial_hands_on
 
 title: Introduction to Machine Learning using R
 level: Intermediate
-zenodo_link: ""
 requirements:
   -
     type: "internal"

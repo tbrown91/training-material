@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: Generating theoretical possible pathways for the production of Lycopene in E.Coli using Retrosynthesis tools
-zenodo_link: ''
 questions:
 - Which heterologous pathways are candidates to produce a compound in a chassis?
 objectives:

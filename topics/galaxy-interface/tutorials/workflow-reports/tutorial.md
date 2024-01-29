@@ -4,7 +4,6 @@ layout: tutorial_hands_on
 title: Workflow Reports
 tags:
 - workflows
-zenodo_link: ''
 questions:
 - What are workflow reports?
 - How can I view a workflow report?

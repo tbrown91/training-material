@@ -2,8 +2,6 @@
 layout: tutorial_hands_on
 title: FAIR Bioimage Metadata
 
-zenodo_link: ''
-
 questions:
 - What are the commonly used repositories for bioimaging data?
 - Which repositories are suitable for my data?

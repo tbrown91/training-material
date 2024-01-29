@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: MaxQuant and MSstats for the analysis of label-free data
-zenodo_link: ''
 level: Intermediate
 questions:
 - How to perform label-free shotgun (DDA) data analysis in MaxQuant and MSstats?

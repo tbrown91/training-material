@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Deploying Tailscale/Headscale for private mesh networking"
-zenodo_link: ""
 questions:
   - What is Tailscale?
   - When is it useful?

@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: Cleaning GBIF data for the use in Ecology
-zenodo_link: ''
 questions:
 - How can I get ecological data from GBIF?
 - How do I check and clean the data from GBIF?

@@ -5,7 +5,6 @@ redirect_from:
 
 title: R basics in Galaxy
 level: Introductory
-zenodo_link: ""
 requirements:
   -
     type: "internal"

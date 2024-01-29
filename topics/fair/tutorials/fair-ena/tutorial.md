@@ -3,7 +3,6 @@ layout: tutorial_hands_on
 title: Sequence data submission to ENA
 abbreviations:
   ENA: European Nucleotide Archive
-zenodo_link: ''
 questions:
 - I am new to sequence submission to a repository.
 - How do I submit sequences and metadata to ENA using the Webin portal and cURL?

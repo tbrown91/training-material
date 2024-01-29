@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Reference Data with Data Managers"
-zenodo_link: ""
 questions:
 objectives:
   - Have an understanding of the way in which Galaxy stores and uses reference data

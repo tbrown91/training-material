@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 title: REMBI - Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
 
-zenodo_link: ''
 
 questions:
 - What is REMBI and why should I use it?

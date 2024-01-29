@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Setting up Celery Workers for Galaxy"
-zenodo_link: ""
 questions:
 objectives:
   - Have an understanding of what Celery is and how it works

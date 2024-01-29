@@ -2,7 +2,6 @@
 layout: tutorial_hands_on
 
 title: "Upgrading Galaxy"
-zenodo_link: ""
 questions:
   - How can I find which version of Galaxy I'm running?
   - How do I upgrade the Galaxy server to the latest version?
