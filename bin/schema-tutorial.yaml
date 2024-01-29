@@ -187,6 +187,7 @@ mapping:
             link on Zenodo to the input data for the tutorial
         examples:
             - "https://zenodo.org/record/3706539"
+        pattern: /^https:\/\/(zenodo.org\/records?\/|doi.org\/10.5281\/zenodo\.)\d+/
     extra:
         type: map
         description: |
